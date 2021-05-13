@@ -3,3 +3,38 @@ text-align: right;
 font-size: 29px;
 color: white;
 }
+
+.titulos {
+font-family: 'Roboto', sans-serif;
+font-weight: 500;
+}
+
+.texto-viajes {
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+}
+
+.texto-logo {
+font-family: 'Roboto', sans-serif;
+font-weight: 500;
+font-size: 25px !important;
+color: white;
+}
+
+.nolink {
+text-decoration:none;
+color:white;
+}
+
+.padd-top {
+padding-top: 38px;
+}
+
+.bg-neg {
+background-color: black;
+color: white;
+}
+
+.i-nosotros {   
+font-size: 26px;
+}

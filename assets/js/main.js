@@ -7,6 +7,11 @@ q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q)
 })
 () 
 
+//Velocidad Carousel
+$('.carousel').carousel({
+  interval: 3000
+})
+
 //Scroll Fixed Color fondo
 $(window).scroll(function(){
 if ($("#menu").offset().top > 56){
